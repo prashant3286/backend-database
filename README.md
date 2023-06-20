@@ -23,7 +23,7 @@ Step2: Make sure that MongoDB and PostgreSQL are installed and configured proper
 
 
 ### Run the project
-Step1: when you install all the necessary package, please go to the root directory and enter the command node seed-data.js. 
+Step1: when you install all the necessary package, please go to the root directory and enter the command node seed_data.js. 
 It will seed the data into the respective databases.
 
 Step2: Now, go to the root directory and enter the command node index.js. It will run our app in 5000 port.

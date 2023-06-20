@@ -40,3 +40,9 @@ This API with v3 will get the data from PostgreSQL
 
 
 ### Quick Look of Techncal Assesment:
+
+![Screenshot from 2023-06-21 00-14-29](https://github.com/prashant3286/backend-database/assets/44322722/26155e54-373e-46d2-8671-73e763f0ce9e)
+![Screenshot from 2023-06-20 23-59-25](https://github.com/prashant3286/backend-database/assets/44322722/d67c25d8-10d5-4741-9ce9-9e788be014de)
+![Screenshot from 2023-06-21 00-15-49](https://github.com/prashant3286/backend-database/assets/44322722/9f4b831e-5006-4c49-85f5-6a8f077a82d5)
+
+

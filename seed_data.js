@@ -1,4 +1,4 @@
-const { sqliteConnection, mongoConnectionPromise, pgConnectionPool } = require('./db-config/db');
+const { sqliteConnection, mongoConnectionPromise, pgConnectionPool } = require('./db-configuration/db');
 const User = require('./models/User');
 
 // Seed data for SQLite

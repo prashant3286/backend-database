@@ -17,16 +17,16 @@ Databases:
 
 
 ### Installation Process
-Step1: To install, please go the root directory and enter the command `npm install`.
+`Step1`: To install, please go the root directory and enter the command `npm install`.
 
-Step2: Make sure that MongoDB and PostgreSQL are installed and configured properly.
+`Step2`: Make sure that MongoDB and PostgreSQL are installed and configured properly.
 
 
 ### Run the project
-Step1: when you install all the necessary package, please go to the root directory and enter the command node seed_data.js. 
+`Step1`: when you install all the necessary package, please go to the root directory and enter the command node seed_data.js. 
 It will seed the data into the respective databases.
 
-Step2: Now, go to the root directory and enter the command node index.js. It will run our app in 5000 port.
+`Step2`: Now, go to the root directory and enter the command node index.js. It will run our app in 5000 port.
 
 ### APIs
 Endpoint: `http://localhost:5000/api/v1/users`
